@@ -1,0 +1,25 @@
+export default {
+  'yiwancheng.table.col1': 'tên',
+  'yiwancheng.table.col2': 'Trạng thái sạc',
+  'yiwancheng.table.col3': 'giá giao dịch',
+  'yiwancheng.table.col4': 'Mục thu phí',
+  'yiwancheng.table.col5': 'Hoạt động',
+
+  'yiwancheng.shoushuanpai.form1': 'Sắp xếp phẫu thuật',
+  'yiwancheng.shoushuanpai.form2': 'tên',
+  'yiwancheng.shoushuanpai.form3': 'Giới tính',
+  'yiwancheng.shoushuanpai.form4': 'tuổi',
+  'yiwancheng.shoushuanpai.form5': 'Bác sĩ phẫu thuật',
+  'yiwancheng.shoushuanpai.form6': 'Thời gian hoạt động',
+  'yiwancheng.shoushuanpai.form7': 'Tên dự án',
+  'yiwancheng.shoushuanpai.form8': 'Nhận xét phẫu thuật',
+
+  'yiwancheng.liaocheng.form1': 'Sắp xếp điều trị',
+  'yiwancheng.liaocheng.form2': 'tên',
+  'yiwancheng.liaocheng.form3': 'Giới tính',
+  'yiwancheng.liaocheng.form4': 'tuổi',
+  'yiwancheng.liaocheng.form5': 'Bác sĩ trị liệu',
+  'yiwancheng.liaocheng.form6': 'Số lần điều trị',
+  'yiwancheng.liaocheng.form7': 'Tên của điều trị',
+  'yiwancheng.liaocheng.form8': 'Ghi chú điều trị',
+};

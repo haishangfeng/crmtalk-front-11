@@ -1,0 +1,15 @@
+export default {
+  'reserveList.table.col1': '姓名',
+  'reserveList.table.col2': 'Vip等级',
+  'reserveList.table.col3': '性别',
+  'reserveList.table.col4': '年龄',
+  'reserveList.table.col5': '地区',
+  'reserveList.table.col6': '主来源',
+  'reserveList.table.col7': '主项目',
+  'reserveList.table.col8': '预约号',
+  'reserveList.table.col9': '来院类别',
+  'reserveList.table.col10': '预约状态',
+  'reserveList.table.col11': '预到时间',
+  'reserveList.table.col12': '网电咨询员',
+  'reserveList.table.col13': '创建时间',
+};

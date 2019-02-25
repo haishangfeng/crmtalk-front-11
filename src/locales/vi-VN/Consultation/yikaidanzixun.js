@@ -1,0 +1,17 @@
+export default {
+  'yikaidanzixun.form1': 'Tên',
+  'yikaidanzixun.form2': 'Vip',
+  'yikaidanzixun.form3': 'Gender',
+  'yikaidanzixun.form4': 'Age',
+  'yikaidanzixun.form5': 'Nguồn',
+  'yikaidanzixun.form6': 'Số hẹn',
+  'yikaidanzixun.form7': 'Phân loại đến viện',
+  'yikaidanzixun.form8': 'Trạng thái hẹn',
+  'yikaidanzixun.form9': 'HM kê đơn',
+  'yikaidanzixun.form10': 'Tình trạng thanh toán',
+  'yikaidanzixun.form11': 'Số tiền thanh toán',
+  'yikaidanzixun.form12': 'TV hiện trường',
+  'yikaidanzixun.form13': 'TG kê đơn',
+  'yikaidanzixun.form14': 'TV onlie',
+  'yikaidanzixun.form15': 'Thời gian hẹn',
+};

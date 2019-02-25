@@ -1,0 +1,25 @@
+export default {
+  'yiwancheng.table.col1': '姓名',
+  'yiwancheng.table.col2': '收费状态',
+  'yiwancheng.table.col3': '成交价',
+  'yiwancheng.table.col4': '收费单项目',
+  'yiwancheng.table.col5': '操作',
+
+  'yiwancheng.shoushuanpai.form1': '手术安排',
+  'yiwancheng.shoushuanpai.form2': '姓名',
+  'yiwancheng.shoushuanpai.form3': '性别',
+  'yiwancheng.shoushuanpai.form4': '年龄',
+  'yiwancheng.shoushuanpai.form5': '手术医生',
+  'yiwancheng.shoushuanpai.form6': '手术时间',
+  'yiwancheng.shoushuanpai.form7': '项目名称',
+  'yiwancheng.shoushuanpai.form8': '手术备注',
+
+  'yiwancheng.liaocheng.form1': '疗程安排',
+  'yiwancheng.liaocheng.form2': '姓名',
+  'yiwancheng.liaocheng.form3': '性别',
+  'yiwancheng.liaocheng.form4': '年龄',
+  'yiwancheng.liaocheng.form5': '疗程医生',
+  'yiwancheng.liaocheng.form6': '疗程次数',
+  'yiwancheng.liaocheng.form7': '疗程名称',
+  'yiwancheng.liaocheng.form8': '疗程备注',
+};

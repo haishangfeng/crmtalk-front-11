@@ -1,0 +1,17 @@
+export default {
+  'yikaidanzixun.form1': '姓名',
+  'yikaidanzixun.form2': 'VipLevel',
+  'yikaidanzixun.form3': '性别',
+  'yikaidanzixun.form4': '年龄',
+  'yikaidanzixun.form5': '主来源',
+  'yikaidanzixun.form6': '预约号',
+  'yikaidanzixun.form7': '来院类别',
+  'yikaidanzixun.form8': '预约状态',
+  'yikaidanzixun.form9': '开单项目',
+  'yikaidanzixun.form10': '消费单状态',
+  'yikaidanzixun.form11': '付款金额',
+  'yikaidanzixun.form12': '现场咨询师',
+  'yikaidanzixun.form13': '开单时间',
+  'yikaidanzixun.form14': '咨询员',
+  'yikaidanzixun.form15': '预约时间',
+};

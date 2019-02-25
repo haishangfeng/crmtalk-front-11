@@ -1,0 +1,15 @@
+export default {
+  'reserveList.table.col1': 'Tên',
+  'reserveList.table.col2': 'Vip',
+  'reserveList.table.col3': 'Gender',
+  'reserveList.table.col4': 'Age',
+  'reserveList.table.col5': 'Vùng',
+  'reserveList.table.col6': 'Nguồn',
+  'reserveList.table.col7': 'Hạng mục',
+  'reserveList.table.col8': 'Số hẹn',
+  'reserveList.table.col9': 'Phân loại đến viện',
+  'reserveList.table.col10': 'Trạng thái hẹn',
+  'reserveList.table.col11': 'Thời gian hẹn đến',
+  'reserveList.table.col12': 'Tư vấn',
+  'reserveList.table.col13': 'Thời gian hẹn',
+};
