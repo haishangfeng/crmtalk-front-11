@@ -3,7 +3,7 @@
 import ApolloBoost from 'apollo-boost';
 
 const apolloClient = new ApolloBoost({
-  uri: 'http://47.101.50.54:4000/',
+  uri: 'http://localhost:4000/',
   request: async operation => {
     const token = localStorage.getItem('crm-token');
 
